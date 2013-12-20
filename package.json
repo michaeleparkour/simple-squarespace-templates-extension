@@ -1,7 +1,7 @@
 {
     "name": "simple-squarespace-templates-extension",
     "title": "Simple Squarespace Templates- Extension",
-    "description": "A simple extension that adds HTML-markup and  html-highlight for *.block, *.region, *.conf, *.list, *.item files" of Squarespace template,
+    "description": "A simple extension that adds HTML-markup and  html-highlight for *.block, *.region, *.conf, *.list, *.item files" of Squarespace template",
     "homepage": "https://github.com/michaeleparkour/simple-squarespace-templates-extension",
     "version": "0.0.1",
     "author": "Michaeleparkour <michaeleparkour@gmail.com>",
